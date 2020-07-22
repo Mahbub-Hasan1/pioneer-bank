@@ -1,0 +1,33 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 80px;
+    padding: 40px;
+    border: 5px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px gray;
+}
+#taransaction-area{
+    display: none;
+}
+.status{
+    margin: 0, 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 10%;
+
+}
+.deposit{
+    background: #5F4FC8;
+    
+}
+.withdraw{
+    background: #F19671;
+    
+}
+.balance{
+    background: #F09B02;
+
+}
